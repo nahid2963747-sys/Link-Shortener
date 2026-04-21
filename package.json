@@ -1,0 +1,7 @@
+{
+  "name": "single-file-shortener",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  }
+}
